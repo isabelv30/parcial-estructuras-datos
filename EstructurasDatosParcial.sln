@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDatosParcial", "EstructurasDatosParcial\EstructurasDatosParcial.csproj", "{4D792B74-E7AC-4465-BF18-944B761E4419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D792B74-E7AC-4465-BF18-944B761E4419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D792B74-E7AC-4465-BF18-944B761E4419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D792B74-E7AC-4465-BF18-944B761E4419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D792B74-E7AC-4465-BF18-944B761E4419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3826773C-7423-49CE-B6BE-CCC5148581D1}
+	EndGlobalSection
+EndGlobal
